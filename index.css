@@ -14,7 +14,7 @@ body{
 =======
 >>>>>>> a6cf6d1b4d302814d148045f20f392f8857bc627
 }
-.container{
+.container{`
     background-color: hsl(0, 0%, 95%);
     justify-content: center;
     display: grid;
