@@ -1,18 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
-<<<<<<< HEAD
+
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
-=======
->>>>>>> a6cf6d1b4d302814d148045f20f392f8857bc627
+
 
 body{
     background-color: rgb(16, 14, 14);
     font-family: 'Lexend Deca', sans-serif;
-<<<<<<< HEAD
+
     font-family: 'Big Shoulders Display';
 
  
-=======
->>>>>>> a6cf6d1b4d302814d148045f20f392f8857bc627
+
 }
 .container{`
     background-color: hsl(0, 0%, 95%);
@@ -34,6 +32,7 @@ body{
 }
 header{
     text-align: center;
+    color:yellow;
 }
 a{
    
