@@ -2,6 +2,7 @@
 
 body{
     background-color: rgb(16, 14, 14);
+    font-family: 'Lexend Deca', sans-serif;
 }
 .container{
     background-color: hsl(0, 0%, 95%);
@@ -55,7 +56,7 @@ a{
 }
 .sedan_info{
     font-size: 9px;
-    font-family: 'Lexend Deca';
+    
     font-weight: 400px;
     line-height: 170%;  
     margin-top: -10px;
@@ -65,7 +66,7 @@ a{
 }
 .learn{
     padding: 10px;
-    font-family: 'Lexend Deca';
+    
     background-color: hsl(0, 0%, 95%);
     color:  hsl(31, 77%, 52%);
     border-radius: 30px;
@@ -96,7 +97,7 @@ h3{
 }
 .suv_info{
     font-size: 9px;
-    font-family: 'Lexend Deca';
+    
     font-weight: 400px;
     line-height: 170%;  
     margin-top: -10px;
@@ -111,7 +112,7 @@ h3{
 }
 .luxury_info{
     font-size: 9px;
-    font-family: 'Lexend Deca';
+    
     font-weight: 400px;
     line-height: 170%;  
     margin-top: -10px;
@@ -119,7 +120,7 @@ h3{
 }
 .lux_learn{
     padding: 10px;
-    font-family: 'Lexend Deca';
+    
     background-color: hsl(0, 0%, 95%);
     color:   hsl(179, 100%, 13%);
     border-radius: 30px;
@@ -134,7 +135,7 @@ h3{
 }
 .suv_learn{
     padding: 10px;
-    font-family: 'Lexend Deca';
+    
     background-color: hsl(0, 0%, 95%);
     color: hsl(184, 100%, 22%);
     border-radius: 30px;
